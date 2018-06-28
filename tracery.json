@@ -3,9 +3,17 @@
     "#advice# \\#QuestionableAdvice"
   ],
   "advice": [
-    "#action.capitalize# #thing.a#.",
-    "#frequency.capitalize# #action# #thing.a#.",
-    "#never.capitalize# #action# #thing.a#. If you do, you’ll #regret#."
+    "#action.capitalize# it.",
+    "#action.capitalize# #being.a#.",
+    "#action.capitalize# then #action# #being.a#.",
+    "#frequency.capitalize# #action# #being.a#.",
+    "#never.capitalize# #action# #being.a#. If you do, you’ll #regret#.",
+    "#never.capitalize# #action# #being.a#. If you don’t, you’ll #beglad#.",
+    "#always.capitalize# #action# #being.a#. If you do, you’ll #beglad#.",
+    "#always.capitalize# #action# #being.a#. If you don’t, you’ll #regret#.",
+    "It’s better to #action# #being.a# than to #action# #being.a#.",
+    "It’s better to #action# #being.a# than #being.a#.",
+    "It’s better to #action# than #action# #being.a#."
   ],
   "frequency": [
     "#never#",
@@ -19,7 +27,6 @@
     "try not to"
   ],
   "always": [
-    "often",
     "always",
     "frequently",
     "try to"
@@ -65,7 +72,7 @@
     "battle",
     "bathe",
     "blackmail",
-    "embiggen",
+    "grow",
     "listen to",
     "chat up",
     "chew",
@@ -134,7 +141,6 @@
     "pay off",
     "bribe",
     "percolate",
-    "perforate",
     "periphrase",
     "petrify",
     "pester",
@@ -179,7 +185,7 @@
     "yell at",
     "zap"
   ],
-  "thing": [
+  "being": [
     "dog",
     "shark",
     "cat",
@@ -225,7 +231,13 @@
     "police officer",
     "judge",
     "senator",
-    "government official"
+    "government official",
+    "brother",
+    "sister",
+    "uncle",
+    "aunt",
+    "grandparent",
+    "cousin"
   ],
   "regret": [
     "regret it",
@@ -233,6 +245,56 @@
     "lose",
     "be disappointed",
     "disappoint your parents",
-    "forget to eat dinner"
+    "forget to eat dinner",
+    "get a bad grade",
+    "fail",
+    "fall down",
+    "be embarrassed",
+    "have to learn the hard way",
+    "be punished",
+    "get hurt",
+    "be hated",
+    "hate it",
+    "miss the bus",
+    "miss the train",
+    "get lost",
+    "lose your wallet",
+    "need to apologize",
+    "feel uncomfortable",
+    "be dissatisfied",
+    "be full of grief",
+    "have remorse",
+    "feel uneasiness",
+    "worry later",
+    "be condemned",
+    "be mocked",
+    "make a toddler cry"
+  ],
+  "beglad": [
+    "be glad",
+    "rejoice",
+    "win",
+    "not be disappointed",
+    "make your parents proud",
+    "never regret it",
+    "get a good grade",
+    "pass the test",
+    "smile",
+    "be loved",
+    "be praised",
+    "benefit",
+    "be rewarded",
+    "find a dollar",
+    "be retweeted",
+    "be liked",
+    "find true love",
+    "get hired",
+    "earn your salary",
+    "get to sleep",
+    "hear beautiful music",
+    "find gold",
+    "be hugged by a stranger",
+    "win the lottery",
+    "be chosen"
   ]
 }
