@@ -1,10 +1,11 @@
 {
   "origin": [
-    "#advice"
+    "#advice# \\#QuestionableAdvice"
   ],
   "advice": [
     "#action.capitalize# #thing.a#.",
-    "#frequency.capitalize# #action# #thing.a#."
+    "#frequency.capitalize# #action# #thing.a#.",
+    "#never.capitalize# #action# #thing.a#. If you do, you’ll #regret#."
   ],
   "frequency": [
     "#never#",
@@ -12,16 +13,16 @@
     "sometimes"
   ],
   "never": [
-    "rarely",
     "seldom",
     "never",
-    "don’t"
+    "don’t",
+    "try not to"
   ],
   "always": [
     "often",
     "always",
     "frequently",
-    "usually"
+    "try to"
   ],
   "action": [
     "pet",
@@ -93,7 +94,7 @@
     "exalt",
     "flirt with",
     "flee",
-    "foregive",
+    "forgive",
     "forget",
     "frustrate",
     "gaslight",
@@ -147,7 +148,7 @@
     "quiz",
     "run from",
     "recycle",
-    "inter",
+    "bury",
     "rent",
     "radicalize",
     "root for",
@@ -182,9 +183,56 @@
     "dog",
     "shark",
     "cat",
-    "fork",
-    "computer",
-    "desk",
-    "lamp"
+    "friend",
+    "enemy",
+    "fiend",
+    "foe",
+    "frenemy",
+    "coworker",
+    "supervisor",
+    "employee",
+    "rabit",
+    "squirrel",
+    "bird",
+    "cocker spaniel",
+    "golden retriever",
+    "corgi",
+    "whale",
+    "fish",
+    "clownfish",
+    "pufferfish",
+    "jellyfish",
+    "lion",
+    "tiger",
+    "bear",
+    "puma",
+    "rhinocerous",
+    "mouse",
+    "rat",
+    "jaguar",
+    "bat",
+    "monkey",
+    "person",
+    "man",
+    "woman",
+    "bee",
+    "ant",
+    "spider",
+    "beetle",
+    "lizard",
+    "author",
+    "scientist",
+    "police officer",
+    "judge",
+    "senator",
+    "government official"
+  ],
+  "regret": [
+    "regret it",
+    "cry",
+    "lose",
+    "be disappointed",
+    "disappoint your parents",
+    "forget to eat dinner"
   ]
 }
