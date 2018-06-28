@@ -268,7 +268,9 @@
     "worry later",
     "be condemned",
     "be mocked",
-    "make a toddler cry"
+    "make a toddler cry",
+    "lose the game",
+    "forget your password"
   ],
   "beglad": [
     "be glad",
@@ -295,6 +297,7 @@
     "find gold",
     "be hugged by a stranger",
     "win the lottery",
-    "be chosen"
+    "be chosen",
+    "win the game"
   ]
 }
