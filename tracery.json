@@ -3,16 +3,12 @@
     "#advice"
   ],
   "advice": [
-
+    "#action.capitalize# #thing.a#.",
+    "#frequency.capitalize# #action# #thing.a#."
   ],
   "frequency": [
-    "rarely",
-    "seldom",
-    "never",
-    "often",
-    "always",
-    "frequently",
-    "usually",
+    "#never#",
+    "#always#",
     "sometimes"
   ],
   "never": [
@@ -181,5 +177,14 @@
     "x-ray",
     "yell at",
     "zap"
+  ],
+  "thing": [
+    "dog",
+    "shark",
+    "cat",
+    "fork",
+    "computer",
+    "desk",
+    "lamp"
   ]
 }
